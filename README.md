@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on great technology product to solve major problems of daily life.
 - 🌱 I’m currently learning web production efficiency.
 - 👯 I’m looking to collaborate on MVP and SaaS production.
-- 🤔 I’m looking for help with worldwide marketing and to get rid off from country to country tax registration.
+- 🤔 I’m looking for help with mentoring on market validation using survey and MVP.
 - 💬 Ask me about personal growth hack.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: You can share sci-fi movies with me.
