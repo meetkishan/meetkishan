@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: You can share sci-fi movies with me.
 - 📫 How to reach me:
 
-* **Website:** [[Personal](https://mekishan.com/)](https://meetkishan.gitlab.io/)
+* **Website:** [Personal](https://meetkishan.gitlab.io/)
 * **Linkedin:** [meetkishan](https://www.linkedin.com/in/meetkishan)
 * **Twitter:** [meetkishan](https://twitter.com/meet_kishan)
 * **Instagram:** [meetkishan](https://www.instagram.com/meetkishan)
