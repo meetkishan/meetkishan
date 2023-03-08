@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on great technology product to solve major problems of daily life.
 - 🌱 I’m currently learning web production efficiency.
-- 👯 I’m looking to collaborate on MVP and SaaS production.
+- 👯 I’m looking to contribute on MVP and SaaS production.
 - 🤔 I’m looking for help with mentoring on market validation using survey and MVP.
-- 💬 Ask me about personal growth hack.
+- 💬 Ask me about your problem for simplified solution in Tech.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: You can share sci-fi movies with me.
 - 📫 How to reach me:
 
-* **Website:** [mekishan.com](https://mekishan.com/)
+* **Website:** [[Personal](https://mekishan.com/)](https://meetkishan.gitlab.io/)
 * **Linkedin:** [meetkishan](https://www.linkedin.com/in/meetkishan)
 * **Twitter:** [meetkishan](https://twitter.com/meet_kishan)
 * **Instagram:** [meetkishan](https://www.instagram.com/meetkishan)
