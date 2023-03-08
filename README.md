@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
 
 * **Website:** [Personal](https://meetkishan.gitlab.io/)
-* **Linkedin:** [meetkishan](https://www.linkedin.com/in/meetkishan)
-* **Twitter:** [meetkishan](https://twitter.com/meet_kishan)
-* **Instagram:** [meetkishan](https://www.instagram.com/meetkishan)
+* **Linkedin:** [KishanKachchhi](https://www.linkedin.com/in/kishankachchhi)
+* **Twitter:** [meet_kishan](https://twitter.com/meet_kishan)
+* **Instagram:** [meet.kishan](https://www.instagram.com/meet.kishan)
 
 ### My GitHub stats
 
