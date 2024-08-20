@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on great technology product to solve major problems of daily life.
 - 🌱 I’m currently learning web production efficiency.
 - 👯 I’m looking to contribute on MVP and SaaS production.
-- 🤔 I’m looking for help with mentoring on market validation using survey and MVP.
+- 🤔 I’m looking for long time opportunity to serve as a FullStack Developer or Product Success Manager.
 - 💬 Ask me about your problem for simplified solution in Tech.
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: You can share sci-fi movies with me.
+- ⚡ Fun fact: You can share sci-fi movies or How Stuff Works Videos with me.
 - 📫 How to reach me:
 
 * **Website:** [Personal](https://meetkishan.gitlab.io/)
