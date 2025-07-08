@@ -17,19 +17,21 @@ Here are some ideas to get you started:
 
 ## I'm Kishan Kachchhi
 
-###### ***Software Consultant*** | ***Creative director***
+###### ***Full-Stack Developer*** | ***Digitisation Consultant***
 
 
-- 🔭 I’m currently working on great technology product to solve major problems of daily life.
+- 🔭 I’m currently working on a great technology product to solve major problems of daily life.
 - 🌱 I’m currently learning web production efficiency.
-- 👯 I’m looking to contribute on MVP and SaaS production.
-- 🤔 I’m looking for long time opportunity to serve as a FullStack Developer or Product Success Manager.
-- 💬 Ask me about your problem for simplified solution in Tech.
-- 😄 Pronouns: he/him/his
+- 👯 I’m open to contributing to any impactful Minimum Viable Products and Web Application projects.
+- 🧑‍💻 My current stack is JavaScript, Node.js, Vue.js, and Laravel. I am a quick learner and ready to switch to React, Angular, Python, or other frameworks.
+- 🔍 I’m searching for a long-term opportunity to serve as a FullStack/Frontend/Backend Developer or Product Success Manager.
+- 💬 Ask me about your problem for a simplified solution in Tech.
 - ⚡ Fun fact: You can share sci-fi movies or How Stuff Works Videos with me.
+- 📍 I'm currently based in Chemnitz, Germany. And I'm Open to relocating for the opportunity.
+- 😄 Pronouns: he/him/his
 - 📫 How to reach me:
 
-* **Website:** [Personal](https://meetkishan.gitlab.io/)
+* **Website:** [Personal](https://kishank.gitlab.io/)
 * **Linkedin:** [KishanKachchhi](https://www.linkedin.com/in/kishankachchhi)
 * **Twitter:** [meet_kishan](https://twitter.com/meet_kishan)
 * **Instagram:** [meet.kishan](https://www.instagram.com/meet.kishan)
